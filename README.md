@@ -7,14 +7,6 @@
     Unveiling the Universe, One Story at a Time.
   </p>
 
-
-<h4>
-    <a href="https://st.ihaji.pro/">Visit Website</a>
-  <span> · </span>
-    <a href="https://trello.com/b/RFAVvXwQ/spacethreads/">Trello Board</a>
-  <span> · </span>
-    <a href="https://git.generalassemb.ly/astronauts-team/space-threads/issues/">Report Bugs</a>
-  </h4>
 </div>
 
 <br />
@@ -84,7 +76,7 @@ Join us in this cosmic journey, where storytelling has no limits. Explore SpaceT
 <ul>
   <li>As an Aspiring Writer: I want to write and publish stories: To share my creativity with the community.</li>
   <li>As a Participating Writer: I want to collaborate with others: To co-author stories and learn from fellows.</li>
-  <li>As a Learning Writer: I want to receive reviews and comments: To improve my skills and connect with readers.</li>
+  <li>As a Learning Writer: I want to receive reviews and comments: To improve myself and connect with readers.</li>
   <li>As a Reader and Enthusiast: I want to browse a diverse library of stories: So I can discover new authors.</li>
   <li>As a Critical Reader: I want to leave comments and feedback: To engage with authors and fellow readers.</li>
   <li>As an Administrator: I want to manage user accounts: To ensure a safe and enjoyable platform experience.</li>
@@ -123,7 +115,7 @@ Join us in this cosmic journey, where storytelling has no limits. Explore SpaceT
 <details>
 <summary>DevOps, Databases, etc.</summary>
   <ul>
-    <li><a href="https://www.github.com/">GitHub Enterprise CI/CD</a></li>
+    <li><a href="https://www.github.com/">GitHub Enterprise</a></li>
     <li><a href="https://render.com/">Render Cloud Hosting</a></li>
     <li><a href="https://www.docker.com/">Docker Containerization</a></li>
     <li><a href="https://nginx.org/en/">Nginx Web Server</a></li>
@@ -211,7 +203,7 @@ To deploy this project run:
 <!-- Contributing -->
 ## :star2: Contributing
 
-Contributions are always welcome. [Click here](https://git.generalassemb.ly/astronauts-team/space-threads/issues/) to request a feature or report a bug.
+Contributions are always welcome. [Click here](https://github.com/amstalks/space-threads/issues/) to request a feature or report a bug.
 
 
 <!-- License -->
