@@ -161,7 +161,7 @@ Install it with NPM as the following:
 Clone the project
 
 ```bash
-  git clone git://git.generalassemb.ly/astronauts-team/space-threads.git
+  git clone git@github.com:amstalks/space-threads.git
 ```
 
 Go to the project directory
